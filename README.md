@@ -166,7 +166,6 @@ cargo uninstall rustlings
 ```
 
 Now you should be done!
-
 ## Completion
 
 Rustlings isn't done; there are a couple of sections that are very experimental and don't have proper documentation. These include:
@@ -184,6 +183,46 @@ Additionally, we could use exercises on a couple of topics:
 - ??? probably more
 
 If you are interested in improving or adding new ones, please feel free to contribute! Read on for more information :)
+
+## Progress
+
+-------------------
+
+| Exercises                 | Progress  | Code                                                                                                 |
+| :----------------------: | :-------: | :--------------------------------------------------------------------------------------------------: |
+| `advanced_errors`        | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/blob/4.6.0-solutions/exercises/advanced_errors/)  |
+| `clippy`                 | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/clippy)            |
+| `collections`            | 5/5       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/collections)       |
+| `conversions`            | 5/5       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/conversions)       |
+| `enums`                  | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/enums)             |
+| `error_handling`         | 6/6       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/error_handling)    |
+| `functions`              | 5/5       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/functions)         |
+| `generics`               | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/generics)          |
+| `if`                     | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/if)                |
+| `intro`                  | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/intro)             |
+| `macros`                 | 4/4       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/macros)            |
+| `modules`                | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/modules)           |
+| `move_semantics`         | 6/6       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/move_semantics)    |
+| `option`                 | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/option)    |
+| `primitive_types`        | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/primitive_types)    |
+| `standard_library_types` | 7/7       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/standard_library_types) |
+| `strings`                | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/4.6.0-solutions/exercises/strings)               |
+| `move_semantics`         | 5/5       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/move_semantics)         |
+| `primitive_types`        | 6/6       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/primitive_types)        |
+| `structs`                | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/structs)                |
+| `enums`                  | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/enums)                  |
+| `modules`                | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/modules)                |
+| `collections`            | 4/4       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/collections)            |
+| `strings`                | 2/2       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/strings)                |
+| `structs`                | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/structs)                |
+| `tests`                  | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/tests)                  |
+| `threads`                | 1/1       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/threads)                |
+| `traits`                 | 3/3       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/traits)                 |
+| `variables`              | 6/6       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/variables)              |
+| `quiz1`                  | 1/1       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/quiz1)              |
+| `quiz2`                  | 1/1       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/quiz2)              |
+| `quiz3`                  | 1/1       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/quiz3)              |
+| `quiz4`                  | 1/1       | [:link:](https://github.com/peng-huang-ch/rustlings-solutions/tree/main/exercises/quiz4)              |
 
 ## Contributing
 
